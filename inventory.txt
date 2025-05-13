@@ -1,0 +1,20 @@
+1,VitaminCSerum, Garnier,1000.0,493, France
+
+2,Skin Cleanser, Cetaphil,100.0,500, Switzerland
+
+3,Sunscreen, Aqua logica,200.0,400, India
+
+4,Lip Balm, Maybelline,100.0,300, USA
+
+5,Face Wash, Himalaya,150.0,500, India  
+
+6,Foot Cream, Biotique,220.0,130, India
+
+7,Night Cream, Neutrogena,900.0,200, USA  
+
+8,Hair Serum, Loreal   ,850.0,275, France  
+
+9,Skin Toner, body care,400.0,180, UK  
+
+10,Face Scrub, himalaya,180.0,210, USA
+
